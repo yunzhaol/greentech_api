@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run CLI (Create Estimate)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/cli_push_estimate.py",
+      "console": "integratedTerminal",
+      "args": ["--json", "samples/quote_sample.json"]
+    }
+  ]
+}

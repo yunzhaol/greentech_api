@@ -1,0 +1,27 @@
+{
+  "customer": {
+    "display_name": "Alex Smith"
+  },
+  "quote": {
+    "reference": "GT-TEST-001",
+    "date": "2025-10-19"
+  },
+  "items": [
+    {
+      "description": "Interior wall painting",
+      "qty": 2,
+      "unit_price": 150.0
+    },
+    {
+      "description": "Door trim repaint",
+      "qty": 1,
+      "unit_price": 80.0
+    }
+  ],
+  "sustainability": {
+    "trees": 1,
+    "co2_tons": 0.1,
+    "water_liters": 10
+  },
+  "currency": "CAD"
+}
