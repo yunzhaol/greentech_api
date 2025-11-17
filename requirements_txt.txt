@@ -1,0 +1,20 @@
+# GreenTech Painting - QuickBooks API Integration
+# Python dependencies
+
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Optional: For BigQuery integration (Phase 2)
+# Uncomment when ready to implement BigQuery logging
+# google-cloud-bigquery==3.11.0
+# pandas==2.0.3
+
+# Optional: For enhanced data handling
+# Uncomment if needed for advanced JSON/CSV processing
+# pandas==2.0.3
+
+# Development dependencies (optional)
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.1.0

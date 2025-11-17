@@ -1,2 +1,0 @@
-timestamp,reference,customer_name,items_count,subtotal,currency,status,pdf_path
-2025-10-19T20:16:10Z,GT-TEST-001,Alex Smith,2,380.00,CAD,mock_created,Quotes/Estimate_GT-TEST-001.pdf,
