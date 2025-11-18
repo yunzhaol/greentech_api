@@ -1,27 +1,39 @@
 {
   "customer": {
-    "display_name": "Alex Smith"
+    "display_name": "Alex Smith",
+    "email": "alex.smith@example.com",
+    "phone": "416-555-0100"
   },
   "quote": {
     "reference": "GT-TEST-001",
-    "date": "2025-10-19"
+    "date": "2025-11-17"
   },
   "items": [
     {
-      "description": "Interior wall painting",
-      "qty": 2,
-      "unit_price": 150.0
+      "description": "Interior painting - Living room (2 coats)",
+      "qty": 1,
+      "unit_price": 450.0
     },
     {
-      "description": "Door trim repaint",
+      "description": "Interior painting - Kitchen (2 coats)",
       "qty": 1,
-      "unit_price": 80.0
+      "unit_price": 350.0
+    },
+    {
+      "description": "Exterior trim - Front facade",
+      "qty": 1,
+      "unit_price": 275.0
+    },
+    {
+      "description": "Door painting - Interior doors (3 units)",
+      "qty": 3,
+      "unit_price": 65.0
     }
   ],
   "sustainability": {
-    "trees": 1,
-    "co2_tons": 0.1,
-    "water_liters": 10
+    "trees": 2,
+    "co2_tons": 0.25,
+    "water_liters": 35
   },
   "currency": "CAD"
 }

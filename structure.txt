@@ -1,0 +1,16 @@
+.
+├── Quotes
+├── SETUP_GUIDE.md
+├── cli_push_estimate.py
+├── implementation_summary.md
+├── initial_oauth_setup.py
+├── logs
+├── oauth.py
+├── quick_start.md
+├── requirements_txt.txt
+├── run_tests.py
+├── samples
+│   └── quote_sample.json
+└── structure.txt
+
+4 directories, 10 files
